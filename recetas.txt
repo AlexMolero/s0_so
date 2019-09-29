@@ -1,0 +1,1 @@
+Macarrones carbonara:Macarrones{500;gramos;OTR}Bacon{250;gramos;CAR}Agua{1;litro;OTR}Aceite{1;chorro;CON}Nata{500;mililitros;NEV}+Pastel de carne:Carne picada{1;kg;CAR}Caldo{0.5;litros;CON}Patatas{0.5;Kg;VER}Cebollas{3;unidades;VER}Zanahorias{3;unidades;VER}
